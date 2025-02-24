@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kushdewal
+- 👋 Hi, Kush this side, a cybersecurity enthusiasts. 
 - 👀 I’m interested in cyber security and ethical hacking. 
 - 🌱 I’m currently learning cyber security. 
 - 💞️ I’m looking to collaborate on open source projects.
